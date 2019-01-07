@@ -1,0 +1,39 @@
+,Team 1,Team 2,Winner,logistic,random forest,gaussian naive bayes,SVM linear,SVM polynomial,Neural Network
+G1T1,Fresno State,Arizona State,1,1,1,1,1,1,1
+G2T1,Georgia Southern,Eastern Michigan,1,1,1,1,1,0,1
+G3T1,Louisiana,Tulane,0,0,0,0,0,0,0
+G4T1,Utah State,North Texas,1,1,1,1,1,1,1
+G5T1,Northern Illinois,Alabama-Birmingham,0,0,0,0,1,1,0
+G6T1,San Diego State,Ohio,0,0,0,1,0,0,0
+G7T1,Marshall,South Florida,1,1,1,1,1,1,1
+G8T1,Brigham Young,Western Michigan,1,1,1,1,1,1,1
+G9T1,Toledo,Florida International,0,0,0,0,0,0,0
+G10T1,Houston,Army,0,0,0,0,0,0,0
+G11T1,Hawaii,Louisiana Tech,0,0,0,0,0,1,0
+G12T1,Buffalo,Troy,0,0,0,0,1,0,0
+G13T1,Memphis,Wake Forest,0,0,1,1,0,1,0
+G14T1,Minnesota,Georgia Tech,1,1,1,1,1,1,1
+G15T1,Texas Christian,California,1,1,1,1,1,1,1
+G16T1,Baylor,Vanderbilt,1,1,0,0,1,1,1
+G17T1,Duke,Temple,1,1,1,1,1,1,1
+G18T1,Wisconsin,Miami (FL),1,1,1,1,1,1,1
+G19T1,Auburn,Purdue,1,1,1,1,1,1,1
+G20T1,Syracuse,West Virginia,1,1,0,1,1,0,1
+G21T1,Iowa State,Washington State,0,0,0,1,0,1,1
+G22T1,Oklahoma,Alabama,0,0,0,0,0,0,0
+G23T1,Notre Dame,Clemson,0,1,0,0,1,0,0
+G24T1,Florida,Michigan,1,1,1,0,1,1,1
+G25T1,Nevada,Arkansas State,1,0,0,0,0,0,0
+G26T1,Virginia,South Carolina,1,1,1,1,1,1,1
+G27T1,Cincinnati,Virginia Tech,1,1,1,1,0,0,1
+G28T1,Utah,Northwestern,0,0,1,1,0,1,1
+G29T1,Oklahoma State,Missouri,1,0,0,0,0,0,0
+G30T1,Michigan State,Oregon,0,1,1,1,1,0,1
+G31T1,Pittsburgh,Stanford,0,1,0,1,0,0,0
+G32T1,North Carolina State,Texas A&M,0,0,0,0,0,0,0
+G33T1,Mississippi State,Iowa,0,0,1,1,0,1,1
+G34T1,Penn State,Kentucky,0,0,0,0,0,1,0
+G35T1,Louisiana State,Central Florida,1,1,1,1,1,1,1
+G36T1,Ohio State,Washington,1,1,1,0,1,1,1
+G37T1,Georgia,Texas,0,0,0,1,0,0,0
+G38T1,Alabama,Clemson,1,1,1,1,1,1,1
